@@ -6,3 +6,27 @@ img {
   height: 500px;
   width: auto;
 }
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  background-color: yellow;
+  color: red;
+}
+
+p {
+  font-weight: bolder;
+}
+
+.links-list {
+  text-align: center;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.links-list li {
+  display: inline;
+  margin-right: 8px;
+}
